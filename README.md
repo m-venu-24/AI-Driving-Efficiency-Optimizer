@@ -61,7 +61,7 @@ AI-Powered-Driving-Efficiency-Optimizer/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Powered-Driving-Efficiency-Optimizer.git
+git clone https://github.com/m-venu-24/AI-Powered-Driving-Efficiency-Optimizer.git
 cd AI-Powered-Driving-Efficiency-Optimizer
 ```
 
